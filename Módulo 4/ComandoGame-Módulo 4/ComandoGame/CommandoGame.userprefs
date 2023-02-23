@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Coursera\Code\Game\BossTankController.cs">
+    <Files>
+      <File FileName="Assets\Coursera\Code\Utils\GUIController.cs" Line="4" Column="24" />
+      <File FileName="Assets\Coursera\Code\Game\PlayerController.cs" Line="181" Column="62" />
+      <File FileName="Assets\Coursera\Code\Game\GameController.cs" Line="53" Column="47" />
+      <File FileName="Assets\Coursera\Code\Game\CameraController.cs" Line="36" Column="4" />
+      <File FileName="Assets\Coursera\Code\Game\FixedAIController.cs" Line="28" Column="38" />
+      <File FileName="Assets\Coursera\Code\Game\MovementAIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coursera\Code\Game\BossTankController.cs" Line="197" Column="4" />
+      <File FileName="Assets\Coursera\Code\Game\ExplodingBarrel.cs" Line="40" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
