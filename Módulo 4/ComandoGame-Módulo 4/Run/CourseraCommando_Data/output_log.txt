@@ -1,0 +1,31 @@
+Initialize engine version: 4.6.8f1 (583461196f73)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     1102 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.440 seconds
+desktop: 1366x768 60Hz; virtual: 2646x1221 at 0,-453
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\usuari\Desktop\gameplay\Sesion 4\Run\CourseraCommando_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 1.121028 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2442.
+Total: 5.151994 ms (FindLiveObjects: 0.154338 ms CreateObjectMapping: 0.035525 ms MarkObjects: 2.327318 ms  DeleteObjects: 1.966141 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Kill player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
